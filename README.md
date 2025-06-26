@@ -5,8 +5,8 @@ A simple and efficient library management system developed using Python, SQLite,
 ## 🏫 Organization Info
 
 - **University:** UTAA  
-- **Contributors:*
-  - İlayda KILINÇ – 210446023
+- **Contributor:**
+  - İlayda KILINÇ
 
 ---
 
